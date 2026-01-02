@@ -1,2 +1,3 @@
 # git-learning
-learning git &amp; github
+learning git &; github
+author - pavan
